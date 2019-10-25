@@ -1,0 +1,42 @@
+.PokemonCard {
+  display: flex;
+  flex-direction: column;
+  border: 2px red solid;
+  border-radius: 20px;
+  width: 300px;
+  height: 450px;
+  margin: 0 23px 23px;
+  background-color: mediumturquoise;
+}
+.CardImage {
+  height: 150px;
+  margin: auto;
+  background-color: wheat;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.PokemonInfo {
+  margin: auto;
+}
+
+.engName {
+  border: solid 2px;
+  border-radius: 4px;
+}
+
+.header {
+  text-align: center;
+  font-size: 50px;
+}
+
+.subHeader {
+  text-align: center;
+  font-family: "Comic Sans MS";
+  text-shadow: 2px 2px #ff0000;
+}
+
+body {
+  background-image: url("https://www.trzcacak.rs/file/max/113/1134127_pokemon-background-png.png");
+  background-size: contain;
+}

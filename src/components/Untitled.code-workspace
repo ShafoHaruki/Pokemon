@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "/Users/apple/developer/jumpstart/cats/src"
+	},
+	{
+		"path": "/Users/apple/developer/jumpstart/pokemon-react-lab"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "src"
+  }
+}
